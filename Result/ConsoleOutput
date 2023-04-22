@@ -1,0 +1,81 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 14197
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 12, 2023 11:23:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 112, so returning the closest version found: 111
+URL: https://www.amazon.in/ launched successfully 
+Number of Products in Search Result: 17
+connection established
+Actual : Apple iPhone 14 (128 GB) - Yellow
+Expected : Apple iPhone 14 (512 GB) - Purple
+ProductName 1 Not Matched 
+*********
+Actual : Apple iPhone 14 (128 GB) - Yellow
+Expected : Apple iPhone 14 (128 GB) - Yellow
+ProductName 2 Matched 
+*********
+Actual : Apple iPhone 14 (256 GB) - Yellow
+Expected : Apple iPhone 14 (256 GB) - Yellow
+ProductName 3 Matched 
+*********
+Actual : Apple iPhone 14 (512 GB) - Purple
+Expected : Apple iPhone 14 (512 GB) - Purple
+ProductName 4 Matched 
+*********
+Actual : Apple iPhone 14 (512 GB) - (Product) RED
+Expected : Apple iPhone 14 (512 GB) - (Product) RED
+ProductName 5 Matched 
+*********
+Actual : Apple iPhone 14 Pro 15.54 cm (6.1-inch) Super Retina XDR Display Featuring Always-On and Promotion Dynamic Island, a Magical New Way to Interact with iPhone 48MP Main Camera (256, Deep Purple, New)
+Expected : Apple iPhone 14 Pro 15.54 cm (6.1-inch) Super Retina XDR Display Featuring Always-On and Promotion Dynamic Island, a Magical New Way to Interact with iPhone 48MP Main Camera (256, Deep Purple, New)
+ProductName 6 Matched 
+*********
+Actual : Apple iPhone 14 Plus (128 GB) - Midnight
+Expected : Apple iPhone 14 Plus (128 GB) - Midnight
+ProductName 7 Matched 
+*********
+Actual : Apple iPhone 14 Plus (512 GB) - Purple
+Expected : Apple iPhone 14 (128 GB) - Midnight
+ProductName 8 Not Matched 
+*********
+Actual : Apple iPhone 14 (128 GB) - Midnight
+Expected : Apple iPhone 14 (128 GB) - Starlight
+ProductName 9 Not Matched 
+*********
+Actual : Apple iPhone 14 Plus (256 GB) - Blue
+Expected : Apple iPhone 14 Plus (512 GB) - Starlight
+ProductName 10 Not Matched 
+*********
+Actual : Apple iPhone 14 Pro (128 GB) - Deep Purple
+Expected : Redmi 12C (Matte Black, 4GB RAM, 64GB Storage)
+ProductName 11 Not Matched 
+*********
+Actual : Nillkin Designed for iPhone 14 Pro Max Case Stand, Built in Rotatable Kickstand & Camera Cover Shockproof Hard Plastic Back & Heavy Duty Bumper Protective Phone Case for iPhone 14 Pro Max 6.7'' Green
+Expected : Apple iPhone 14 Pro (128 GB) - Space Black
+ProductName 12 Not Matched 
+*********
+Actual : Apple iPhone 14 (128 GB) - Starlight
+Expected : Apple iPhone 14 Plus (128 GB) - (Product) RED
+ProductName 13 Not Matched 
+*********
+Actual : Apple iPhone 14 Plus (128 GB) - (Product) RED
+Expected : Samsung Galaxy M04 Light Green, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera
+ProductName 14 Not Matched 
+*********
+Actual : Apple iPhone 14 Plus (512 GB) - Starlight
+Expected : OnePlus 11 5G (Eternal Green, 16GB RAM, 256GB Storage)
+ProductName 15 Not Matched 
+*********
+Actual : Apple iPhone 14 Plus (256 GB) - (Product) RED
+Expected : Oppo A78 5G (Glowing Blue, 8GB RAM, 128 Storage) | 5000 mAh Battery with 33W SUPERVOOC Charger| 50MP AI Camera | 90Hz Refresh Rate | with No Cost EMI/Additional Exchange Offers
+ProductName 16 Not Matched 
+*********
+Actual : Samsung Galaxy M04 Light Green, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera
+Expected : Apple iPhone 14 Pro (256 GB) - Gold
+ProductName 17 Not Matched 
+*********
+Webdriver quit successfully 
